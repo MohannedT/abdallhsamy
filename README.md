@@ -50,7 +50,6 @@ I am able to design systems from scratch by finding all functional and non-funct
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_adsense/google_adsense-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
@@ -72,6 +71,7 @@ I am able to design systems from scratch by finding all functional and non-funct
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rss/rss-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/trello/trello-official.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>
