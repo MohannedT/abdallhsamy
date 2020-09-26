@@ -53,7 +53,6 @@ I am able to design systems from scratch by finding all functional and non-funct
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-<code><img height="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/digitalocean-logo.png"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/digitalocean.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/bitnami/bitnami-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
