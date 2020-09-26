@@ -61,6 +61,7 @@ I am able to design systems from scratch by finding all functional and non-funct
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img height="50" src="https://p.kindpng.com/picc/s/452-4529223_vue-js-logo-png-transparent-png.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/plc-systems.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
