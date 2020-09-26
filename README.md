@@ -68,7 +68,7 @@ I am able to design systems from scratch by finding all functional and non-funct
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rss/rss-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/trello/trello-official.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
