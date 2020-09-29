@@ -130,5 +130,9 @@ I am able to design systems from scratch by finding all functional and non-funct
 `Design Pattern`
 
 
+
+<img align="left" alt="AbdallahSamy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdallhsamy2011&show_icons=true&hide_border=true" />
+
+
 ## Contact Me
 [![Whatsapp](https://img.shields.io/badge/-Abdallah%20Samy-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/201115992468)](https://wa.me/201115992468) [![Call](https://img.shields.io/badge/-Click%20To%20Call-blue?style=flat-square&logo=mobile&logoColor=white&link=tel://+201115992468)](tel://+201115992468)
