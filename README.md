@@ -131,7 +131,7 @@ I am able to design systems from scratch by finding all functional and non-funct
 
 
 
-<img align="left" alt="AbdallahSamy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdallhsamy&show_icons=true&hide_border=true" />
+<img align="left" alt="AbdallahSamy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdallhsamy&show_icons=true&hide_border=true&count_private=true" />
 
 
 ## Contact Me
